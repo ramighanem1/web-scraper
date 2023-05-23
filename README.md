@@ -2,7 +2,7 @@
 ## LAB - Class 17
 ## Author: Rami Ghanem
 
-## to run madlib game:
+## to run web scraper:
 
     source .venv/bin/activate
     pip install -r requirements.txt
